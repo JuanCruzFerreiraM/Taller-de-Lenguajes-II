@@ -1,4 +1,3 @@
-
 public class BouncyBalls {
      
 	public static void main(String[] args) {
@@ -27,7 +26,7 @@ public class BouncyBalls {
             posicionY = posicionY + veloY; 
 
             dibujaCirculo(posicionX, posicionY, radius); 
-            dibujaCirculo(-posicionX, -posicionY, 2*radius);
+            
             
         }
 	}
