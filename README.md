@@ -3,7 +3,6 @@
 <p> Presentar formalmente el paradigma de objetos, sus características, ventajas y
 aplicaciones dentro del desarrollo de sistemas de software. Desarrollar prácticas
 concretas con lenguajes orientados a Objetos (como por ejemplo Java o C++).</p>
-<span> Prueba de sincronizacion de dispositivos</span>
 
 <h3 align="center">Practicas</h3>
 <ul>
