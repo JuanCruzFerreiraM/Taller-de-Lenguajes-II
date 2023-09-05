@@ -11,4 +11,9 @@ concretas con lenguajes orientados a Objetos (como por ejemplo Java o C++).</p>
         <p>La práctica 1 consiste de la realización de diagramas UML para diferentes casos. 
         Se omiten las resoluciones. </p>
     </li>
+     <li>
+        <h4 href="https://github.com/JuanCruzFerreiraM/Taller-de-Lenguajes-II/tree/main/Practica%202">Practica 2</h4>
+        <p>La practica presenta temas avanzados de eclipse, en mi caso intento resolver las consignas para VS code. 
+        En la sección codigo se utiliza stdlib.jar como Referenced Libraries.</p>
+    </li>
     
