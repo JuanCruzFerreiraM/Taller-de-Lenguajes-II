@@ -12,7 +12,7 @@ concretas con lenguajes orientados a Objetos (como por ejemplo Java o C++).</p>
         Se omiten las resoluciones. </p>
     </li>
      <li>
-        <h4 href="https://github.com/JuanCruzFerreiraM/Taller-de-Lenguajes-II/tree/main/Practica%202">Practica 2</h4>
+        <h4 url="https://github.com/JuanCruzFerreiraM/Taller-de-Lenguajes-II/tree/main/Practica%202">Practica 2</h4>
         <p>La practica presenta temas avanzados de eclipse, en mi caso intento resolver las consignas para VS code. 
         En la sección codigo se utiliza stdlib.jar como Referenced Libraries.</p>
     </li>
