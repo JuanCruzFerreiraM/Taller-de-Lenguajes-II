@@ -1,3 +1,11 @@
+/**
+ * <h1 align="center"> Bouncy Balls</h1>
+ * La clase BouncyBalls genera una animacion de una bolita que rebota
+ * haciendo uso de la libreria stdlib.jar
+ * <p>
+ * @author Juan Cruz Ferreira Monteiro
+ * @version 1.0
+ */
 public class BouncyBalls {
      
 	public static void main(String[] args) {
@@ -9,11 +17,24 @@ public class BouncyBalls {
         double posicionX = 0.480, posicionY = 0.860;     // position
         double veloX = 0.1, veloY = 0.1;     // velocity
         double radius = 0.05;              // radius
-
         // main animation loop
         animation(posicionX, posicionY, veloX, veloY, radius); 		
 	}
-    
+
+        /**
+         * <h3 align="center">Animation</h3>
+         * La funcion animation se encarga de crear la secuencia de movimientos que simulan la pelota rebotando.
+         * @param posicionX
+         * Posicion inicial en x de la pelota.
+         * @param posicionY
+         * Posicion inicial en y de la pelota
+         * @param veloX
+         * Velocidad en x a la que se debe mover la pelota.
+         * @param veloY
+         * Velocidad en y a la que se debe mover la pelota.
+         * @param radius
+         * Radio de la pelota.
+         */
 	private static void animation(double posicionX, double posicionY, double veloX, double veloY, double radius) {
 		while (true)  { 
 
