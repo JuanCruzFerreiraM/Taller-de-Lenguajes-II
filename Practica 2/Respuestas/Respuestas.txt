@@ -1,25 +1,32 @@
-(Los ejercicios del 1-3 son omitidos por ser muy específicos a Eclipse). 
+(Los ejercicios del 1-3 son omitidos por ser muy específicos a Eclipse).  
 
-4-b- En visual se debe agregar en la sección java Project – Referenced 	          	     
-     Libraries (quedaría probar si se puede hacer agregando en una carpeta libs) 
+4-b- En visual se debe agregar en la sección java Project – Referenced 	          	      
+     Libraries (quedaría probar si se puede hacer agregando en una carpeta libs)  
 
-5-a- Para el caso de VScode se puede usar la misma metodología o utilizar la    	 
-     tecla f2 sobre la carpeta/archivo que se quiera cambiar el nombre. 
 
-6-a- El atajo de teclado de búsqueda y remplazo en varios archivos de VScode    	 
-     es crtl+shift+f.  
+5-a- Para el caso de VScode se puede usar la misma metodología o utilizar la    	  
+     tecla f2 sobre la carpeta/archivo que se quiera cambiar el nombre.  
+
+  
+6-a- El atajo de teclado de búsqueda y remplazo en varios archivos de VScode    	  =
+     es crtl+shift+f.   
+
+  b- El atajo de búsqueda y remplazo en un archivo de VScode es ctrl+f o 
+     ctrl+h  
+
     
-  b- El atajo de búsqueda y remplazo en un archivo de VScode es ctrl+f o
-     ctrl+h 
-   
-7-   Para el caso de VScode se puede usar el mismo metodo o al seleccionar las lineas 
-     aparece una lamparita y al hacer click en ella obtener las opciones de refactor. 
-     (Ademas existe el atajo de teclado ctrl+shift+R).
-    
-8-a- Para avanzar una linea utilizamos f10, para avanzar un breackpoint usamos f5.
+7-   Para el caso de VScode se puede usar el mismo método o al seleccionar las líneas  
+     aparece una lamparita y al hacer click en ella obtener las opciones de refactor.  
+     (Además existe el atajo de teclado ctrl+shift+R). 
 
-  b- Se pueden deshabilitar los breackpoint en las vista de debug.
-
-  c- Los valores de la variable aparecen en la vista de debug, tambien se pueden consultar 
-     en la consola de debug.
      
+8-a- Para avanzar una línea utilizamos f10, para avanzar un breackpoint usamos f5. 
+
+  b- Se pueden deshabilitar los breackpoint en la vista de debug. 
+  
+  c- Los valores de la variable aparecen en la vista de debug, también se pueden consultar  
+     en la consola de debug. 
+
+      
+
+ 
