@@ -1,7 +1,7 @@
 public class BouncyBalls {
      
 	public static void main(String[] args) {
-		 // set the scale of the coordinate system
+	// set the scale of the coordinate system
         StdDraw.setXscale(-2.0, 2.0);
         StdDraw.setYscale(-2.0, 2.0);
 
@@ -11,10 +11,10 @@ public class BouncyBalls {
         double radius = 0.05;              // radius
 
         // main animation loop
-        idk(posicionX, posicionY, veloX, veloY, radius); 		
+        animation(posicionX, posicionY, veloX, veloY, radius); 		
 	}
     
-	private static void idk(double posicionX, double posicionY, double veloX, double veloY, double radius) {
+	private static void animation(double posicionX, double posicionY, double veloX, double veloY, double radius) {
 		while (true)  { 
 
             // bounce off wall according to law of elastic collision
