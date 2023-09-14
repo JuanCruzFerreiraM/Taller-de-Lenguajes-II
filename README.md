@@ -16,4 +16,8 @@ concretas con lenguajes orientados a Objetos (como por ejemplo Java o C++).</p>
         <p>La practica presenta temas avanzados de eclipse, en mi caso intento resolver las consignas para VS code. 
         En la sección codigo se utiliza stdlib.jar como Referenced Libraries.</p>
     </li>
+    <li>
+        <h4><a href="https://github.com/JuanCruzFerreiraM/Taller-de-Lenguajes-II/tree/main/Practica%203">Practica 3</a></h4>
+        <p>Breve descripcion de los temas de la practica a evaluar</p>
+    </li>
     
