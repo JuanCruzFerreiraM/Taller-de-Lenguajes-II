@@ -1,7 +1,6 @@
 {
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
-    "c:\\Users\\juanu\\Downloads\\stdlib.jar",
-    "c:\\Users\\Usuario\\Downloads\\stdlib.jar"
+    "libs/stdlib.jar"
   ]
 }

@@ -18,6 +18,6 @@ concretas con lenguajes orientados a Objetos (como por ejemplo Java o C++).</p>
     </li>
     <li>
         <h4><a href="https://github.com/JuanCruzFerreiraM/Taller-de-Lenguajes-II/tree/main/Practica%203">Practica 3</a></h4>
-        <p>Breve descripcion de los temas de la practica a evaluar</p>
+        <p>Conceptos de herencia</p>
     </li>
     
