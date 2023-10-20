@@ -3,7 +3,7 @@ public class Longitud implements ConSistemas{
     @Override
     public double Conversor(double value, String unidad){
         double valueR = 0;
-        switch (unidad) {
+        switch (unidad) { //se puede modificar con un parametro de valor especifico usando un if antes del swtich. 
             case FT:
                 valueR = value/(PIES * PULGADAS * 100);
                 break;
@@ -15,6 +15,7 @@ public class Longitud implements ConSistemas{
                 valueR = -1;
                 break;
         }
+    
         return valueR;
     }
 
