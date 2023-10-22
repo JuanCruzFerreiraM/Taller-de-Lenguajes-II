@@ -1,6 +1,5 @@
 package unlp.info.modelo;
 
-import java.util.Comparator;
 
 public class Persona {
     private String nombre;
@@ -26,5 +25,9 @@ public class Persona {
         this.edad = edad;
     }
     
+    @Override
+    public String toString(){
+        return this.apellido +", "+this.nombre;
+    }
 
 }
